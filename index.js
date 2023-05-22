@@ -10,7 +10,7 @@ async function run() {
       connectionString: process.env.ORACLE_CONNECTION_STRING,
     });
 
-    console.log("Successfully connected to Oracle Database");
+    console.log("Successfully connected to Oracle");
 
     // Create a table
 
